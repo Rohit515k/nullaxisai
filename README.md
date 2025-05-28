@@ -21,5 +21,5 @@ A web-based chatbot application combining a user-friendly UI with a smart conver
 - Install dependencies: npm install
 
 - Run the frontend: npm run dev
--
+
 - Run the backend: python app.py
